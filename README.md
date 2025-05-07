@@ -36,7 +36,7 @@ A clean, responsive mini music browsing app built with **React**, **TypeScript**
 ### 1. Clone and install dependencies
 
 ```bash
-git clone <>
+git clone <https://github.com/climax-coder/music-app-test>
 cd music-app
 npm install
 
