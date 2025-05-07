@@ -51,6 +51,7 @@ npm run test
 
 ### Project Structure
 
+```txt
 src/
 ├── components/ # Reusable components (ArtistList, ArtistDetail)
 ├── pages/ # Route views (Home.tsx, Artist.tsx)
@@ -59,6 +60,7 @@ src/
 ├── App.tsx # Routing setup
 ├── main.tsx # App bootstrap
 ├── index.css # Tailwind CSS setup
+```
 
 ### Implementation Highlights
 
